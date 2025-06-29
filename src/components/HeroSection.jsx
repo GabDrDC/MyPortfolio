@@ -22,7 +22,7 @@ export const HeroSection = () => {
 
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
             I am a Computer Engineering Student from Technological Institute of the Philippines Manila.
-            Specializing in Data Science Stuffs and Hardware Components.
+            Specializing in Data Science and Hardware Components.
           </p>
 
           <div className="pt-4 opacity-0 animate-fade-in-delay-4">
